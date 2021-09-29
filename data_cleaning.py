@@ -1,5 +1,4 @@
 #All the duplicate columns and NaN values were removed when I merged the data in the previous project
-#Link --> https://github.com/Sravya2007/Project-129-Data-Merging
 import pandas as pd
 
 star_data = pd.read_csv("star_data.csv")
